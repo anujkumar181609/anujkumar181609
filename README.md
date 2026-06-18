@@ -1,267 +1,191 @@
-# <div align="center">⚡ ANUJ KUMAR</div>
+<div align="center">⚡ ANUJ KUMAR</div>
 
-<div align="center">
+<div align="center">🤖 AI & Machine Learning Student | Building RAG & LLM Applications
 
-### 🤖 AI & Machine Learning Student | Building RAG & LLM Applications
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+%26+Machine+Learning;Building+RAG+%26+LLM+Applications;392%2B+DSA+Problems+Solved;Machine+Learning+Engineer+in+Progress;Flutter+Developer;Open+to+Internships+%26+Collaborations"/>
-
-<br>
-
-<a href="https://www.linkedin.com/in/anujkumar2005/">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+%26+Machine+Learning;Building+RAG+%26+LLM+Applications;Machine+Learning+Engineer+in+Progress;392%2B+DSA+Problems+Solved;Recommendation+Systems+%7C+Predictive+Analytics;Open+to+Internships+and+Collaborations"/><br><a href="https://www.linkedin.com/in/anujkumar2005/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/anujkumar181609/">
+</a><a href="https://leetcode.com/u/anujkumar181609/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/anujkumar181609">
+</a><a href="https://www.geeksforgeeks.org/profile/anujkumar181609">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="mailto:anujkumar181609@gmail.com">
+</a><a href="mailto:anujkumar181609@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</a></div>---
 
-<br><br>
+🧠 AI SYSTEM STATUS
 
-![](https://komarev.com/ghpvc/?username=anujkumar181609\&style=for-the-badge\&color=blueviolet)
+Name: Anuj Kumar
 
-</div>
+Degree:
+  B.E. Artificial Intelligence & Machine Learning
 
----
+University:
+  Chandigarh University
 
-# 🧠 AI SYSTEM STATUS
-
-```yaml
-Student_Name: Anuj Kumar
-Degree: B.E. Artificial Intelligence & Machine Learning
-University: Chandigarh University
-
-Current_Focus:
+Focus_Areas:
+  - Machine Learning
   - Deep Learning
   - Retrieval Augmented Generation (RAG)
   - Large Language Models (LLMs)
-  - Data Structures & Algorithms
+  - Recommendation Systems
+  - Predictive Analytics
 
 DSA_Progress:
-  Total: 392+
-  LeetCode: 206+
-  GeeksforGeeks: 186+
+  Problems_Solved: 392+
+
+Learning_Now:
+  - Deep Learning
+  - RAG Systems
+  - LLM Applications
+  - Advanced DSA
 
 Mission:
-  Building intelligent systems powered by ML, RAG and LLMs.
-```
+  Build intelligent AI systems that solve real-world problems using
+  machine learning, retrieval systems and large language models.
 
 ---
 
-# 🚀 FEATURED AI PROJECTS
+🚀 FEATURED PROJECTS
 
-## 🛂 AI-Based Smart Visa Eligibility Screening Agent
+🛂 AI-Based Smart Visa Eligibility Screening Agent
 
-```text
-AI-powered eligibility assessment platform
-```
+AI-powered visa eligibility assessment platform built using Retrieval-Augmented Generation and Large Language Models.
 
-### Core Technologies
+Highlights
 
-* Retrieval Augmented Generation (RAG)
-* Large Language Models (LLMs)
-* Hugging Face
-* FAISS Vector Search
-* Vector Database Architecture
-* Intelligent Query Processing
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- FAISS Vector Search
+- Hugging Face Integration
+- Vector Database Architecture
+- Context-Aware Question Answering
+- Intelligent Eligibility Assessment
 
-### Capabilities
+Tech Stack
 
-✅ Semantic Retrieval
-
-✅ Context-Aware Responses
-
-✅ Visa Eligibility Assessment
-
-✅ Knowledge Base Search
-
-✅ AI Decision Support
+Python • RAG • LLMs • FAISS • Hugging Face • Vector Database
 
 ---
 
-## 🎵 Spotify Hybrid Music Recommendation System
+🎵 Spotify Hybrid Music Recommendation System
 
-```text
-Personalized music recommendation engine
-```
+Hybrid recommendation engine that combines clustering techniques and content-based filtering to generate personalized music recommendations.
 
-### Architecture
+Highlights
 
-* K-Means Clustering
-* Content-Based Filtering
-* Similarity Score Ranking
-* Feature Engineering
-* Recommendation Pipeline
+- K-Means Clustering
+- Similarity Score Ranking
+- Content-Based Filtering
+- Recommendation Pipeline
+- User Preference Modeling
+- Music Similarity Analysis
 
-### Capabilities
+Tech Stack
 
-✅ User Preference Modeling
-
-✅ Similar Track Discovery
-
-✅ Personalized Recommendations
-
-✅ Music Pattern Analysis
+Python • Pandas • NumPy • Scikit-Learn • Matplotlib
 
 ---
 
-## 📊 Customer Churn Prediction
+📊 Customer Churn Prediction 2.0
 
-### ML Pipeline
+Enterprise-style telecom customer churn prediction system focused on model benchmarking, performance optimization and deployment.
 
-* Data Cleaning
-* Feature Engineering
-* Model Training
-* Prediction System
-* Performance Evaluation
+Highlights
 
-### Goal
+- Designed and benchmarked 6 supervised machine learning classifiers
+- Trained on telecom customer datasets with 20+ engineered features
+- Logistic Regression achieved:
 
-Predict customer attrition and improve retention strategies.
+ROC-AUC : 0.73
+Accuracy: 81%
 
----
+- Performed comparative model evaluation and selection
+- Optimized bias-variance trade-off for generalization
+- Developed end-to-end preprocessing pipelines using Joblib
+- Deployed production-ready prediction interface using Streamlit
 
-## 🎬 Netflix Exploratory Data Analysis
+Tech Stack
 
-### Insights Generated
-
-* Content Distribution
-* Genre Trends
-* Rating Analysis
-* Release Year Analysis
-* Country-wise Trends
+Python • Scikit-Learn • Pandas • Streamlit • Joblib
 
 ---
 
-## 📱 EMI Calculator
+🎬 Netflix Exploratory Data Analysis
 
-Flutter-based financial calculator with responsive UI and loan repayment insights.
+Comprehensive exploratory analysis of Netflix content catalog to uncover trends, genre distributions and content insights.
 
----
+Highlights
 
-## ⚖️ BMI Calculator
+- Content Distribution Analysis
+- Genre Trends
+- Rating Analysis
+- Country-wise Insights
+- Release Pattern Analysis
+- Data Visualization
 
-Flutter health utility application with BMI classification and health suggestions.
+Tech Stack
 
----
-
-# ⚙️ AI / ML TECH STACK
-
-<div align="center">
-
-## Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,python,dart"/>
-
-<br><br>
-
-## Machine Learning
-
-<img src="https://img.shields.io/badge/Scikit--Learn-FF9F1C?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-
-<br><br>
-
-## RAG & LLM Ecosystem
-
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FAISS-4B0082?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface"/>
-
-<img src="https://img.shields.io/badge/VectorDB-00BFFF?style=for-the-badge"/>
-
-<br><br>
-
-## Mobile Development
-
-<img src="https://skillicons.dev/icons?i=flutter"/>
-
-<br><br>
-
-## Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</div>
+Python • Pandas • Matplotlib
 
 ---
 
-# 🏆 CERTIFICATIONS
+⚙️ AI / ML TECH STACK
 
-🥇 Deloitte Data Analytics Job Simulation
+<div align="center">Languages
 
-🥇 Deloitte Technology Job Simulation
+<img src="https://skillicons.dev/icons?i=cpp,python,dart"/><br><br>
 
-🥇 TCS iON Career Edge – Young Professional
+Machine Learning & Data Science
+
+<img src="https://img.shields.io/badge/Scikit--Learn-FF9F1C?style=for-the-badge&logo=scikitlearn&logoColor=white"/><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/><br><br>
+
+RAG & LLM Ecosystem
+
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/><img src="https://img.shields.io/badge/FAISS-4B0082?style=for-the-badge"/><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface"/><img src="https://img.shields.io/badge/VectorDB-00BFFF?style=for-the-badge"/><br><br>
+
+Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/></div>---
+
+🏆 CERTIFICATIONS
+
+Deloitte Data Analytics Job Simulation
+
+- Data Analysis
+- Data Visualization
+- Business Insights
+
+Deloitte Technology Job Simulation
+
+- Software Development Concepts
+- Technology Consulting Exposure
+
+TCS iON Career Edge – Young Professional
+
+- Professional Communication
+- Workplace Readiness
+- Career Skills
 
 ---
 
-# 📊 GITHUB ANALYTICS
+📊 GITHUB ANALYTICS
 
-<div align="center">
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=anujkumar181609&show_icons=true&theme=tokyonight"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujkumar181609&layout=compact&theme=tokyonight"/></div><br><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anujkumar181609&theme=tokyonight"/></div>---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anujkumar181609&show_icons=true&theme=tokyonight"/>
+📈 CONTRIBUTION MATRIX
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujkumar181609&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anujkumar181609&theme=tokyonight"/>
-
-</div>
+""Activity Graph" (https://github-readme-activity-graph.vercel.app/graph?username=anujkumar181609&theme=tokyo-night)" (https://github.com/anujkumar181609)
 
 ---
 
-# 📈 CONTRIBUTION MATRIX
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anujkumar181609\&theme=tokyo-night)](https://github.com/anujkumar181609)
-
----
-
-# 🐍 CONTRIBUTION SNAKE
+🐍 CONTRIBUTION SNAKE
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-</p>
+</p>---
 
----
+🧬 CURRENT LEARNING PIPELINE
 
-# 🎯 ACTIVE OBJECTIVES
-
-```text
-[✓] 392+ DSA Problems
-[ ] 500+ DSA Problems
-[ ] Advanced Deep Learning
-[ ] Production RAG Systems
-[ ] Open Source Contributions
-[ ] AI/ML Internship
-[ ] Software Engineering Placement
-```
-
----
-
-# 🧬 CURRENT LEARNING PIPELINE
-
-```python
 while True:
 
     learn("Deep Learning")
@@ -275,32 +199,19 @@ while True:
     solve("DSA Problems")
 
     improve("Every Day")
-```
 
 ---
 
-# 🌐 CONNECT
+🌐 CONNECT
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/anujkumar2005/">
+<div align="center"><a href="https://www.linkedin.com/in/anujkumar2005/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/anujkumar181609/">
+</a><a href="https://leetcode.com/u/anujkumar181609/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/anujkumar181609">
+</a><a href="https://www.geeksforgeeks.org/profile/anujkumar181609">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
+</a></div>---
 
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Building Intelligent Systems, One Project at a Time
+<div align="center">⚡ Building AI Systems That Learn, Retrieve and Reason
 
 </div>
