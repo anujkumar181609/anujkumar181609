@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;500%2B+DSA+Problems+Solved;Building+Real-World+ML+Systems;Flutter+Developer;Open+to+Internships+and+Opportunities"/>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/anujkumar2005/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
