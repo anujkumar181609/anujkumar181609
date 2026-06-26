@@ -119,14 +119,14 @@ https://github.com/anujkumar181609/Spotify-Hybrid-Music-Recommendation-System
 
 ---
 
-### 📊 Customer Churn Prediction 2.0
+### 📊 Teleco Customer Churn Prediction
 
 Designed and benchmarked multiple supervised learning models on telecom customer data to predict customer churn and improve retention strategies.
 
 **Tech Stack:** Python, Machine Learning, Scikit-Learn
 
 🔗 Repository:
-https://github.com/anujkumar181609/Churn-Rate-Prediction-2.0
+https://github.com/anujkumar181609/Telco-Customer-Churn-Prediction
 
 ---
 
